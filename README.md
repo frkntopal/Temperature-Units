@@ -1,3 +1,13 @@
+## *It was a nice study in which you can easily understand the component structures and see the ratios of temperature units to each other.*
+
+
+![Ekran Görüntüsü (100)](https://user-images.githubusercontent.com/100241189/222813792-80dc9143-229b-46e9-b520-afe42a3a350c.png)
+
+
+https://user-images.githubusercontent.com/100241189/222813784-246aedd8-a46f-4b91-ac50-d98355bb6884.mp4
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
